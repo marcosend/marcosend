@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=marcosend9&style=flat-square&color=blue" alt=""/>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="125"/>
 </div>
 
 <div id="badges" align="center">
@@ -18,6 +18,8 @@
 ### 👓 About Me :
 
 I am a Data Analyst from Mexico 🇲🇽.
+
+If there is one thing that motivates me is to learn as much as possible, so every decision that I make either in my professional career or in my personal life is always guided by the question “what would this new role let me learn?“.
 
 - :telescope:  I’m working as a growth and marketplace specialist in the ride-hailing industry.
 
