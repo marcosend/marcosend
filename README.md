@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=marcosend9&style=flat-square&color=blue" alt=""/>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="125"/>
 </div>
